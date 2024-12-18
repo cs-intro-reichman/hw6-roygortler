@@ -25,4 +25,4 @@ public class Editor2 {
 			Runigram.setCanvas(imageOut);
 			Runigram.display(imageOut);	
 		}		
-}
+}//nothing
